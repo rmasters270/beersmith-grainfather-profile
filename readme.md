@@ -1,3 +1,3 @@
-# Beersmith Wter Calcuations for Grainfather
+# Beersmith Water Calcuations for Grainfather
 
-[Grainfather Water Calcuations](.\images\mash_calc.png)
+[Grainfather Water Calcuations](./images/mash_calc.png)
