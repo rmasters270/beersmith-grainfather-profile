@@ -43,7 +43,7 @@ This document is intended to get the same results between the two applications. 
 
 Go to Advanced Options in the BeerSmith Preferences Menu.
 
-![BeerSmith Advanced Options](./images/bs_advanced_options.png)
+![BeerSmith Advanced Options](images/bs_advanced_options.png)
 
 #### Grain Absorption
 
@@ -57,7 +57,7 @@ Watch the units and convert if when needed.  The Grainfather uses gal/lb so thes
 
 Create a new Equipment profile for the Grainfather.
 
-![BeerSmith Equipment Profile](./images/bs_equipment_profile.png)
+![BeerSmith Equipment Profile](images/bs_equipment_profile.png)
 
 #### Batch Volume
 
@@ -103,7 +103,7 @@ The amount of wort left behind in the Grainfather and the chiller. The default `
 
 ### Mash Profile
 
-![BeerSmith Mash Profile](./images/bs_mash_profile.png)
+![BeerSmith Mash Profile](images/bs_mash_profile.png)
 
 You can make multiple mash profiles and there are a lot of variables here but only two have an effect on consistency.
 
@@ -125,11 +125,11 @@ By this point you should have completely setup BeerSmith.  Before setting up the
 
 Create a simple recipe using the new equipment and mash profile with a 10 lb grain bill.
 
-![BeerSmith Calibration Recipe](./images/bs_calibration_recipe.png)
+![BeerSmith Calibration Recipe](images/bs_calibration_recipe.png)
 
 Then use the Mash & Sparge Water calculator to verify the two applications match at this preliminary stage.
 
-![Grainfather Water Calculator](./images/gc_water_calc.png)
+![Grainfather Water Calculator](images/gc_water_calc.png)
 
 ---
 
@@ -145,7 +145,7 @@ Now that we have a BeerSmith equipment profile it's equally as important to have
 
 Open the Grainfather app and create a new `Brewing Equipment System`.  I'm creating a Grainfather (110V) - Bluetooth Controller.  Not many settings need to be changed, but I won't go into detail about the default settings.
 
-![Grainfather Equipment Profile](./images/gc_equip_profile.png)
+![Grainfather Equipment Profile](images/gc_equip_profile.png)
 
 #### Number Of Vessels
 
@@ -179,4 +179,4 @@ Set the `Trub And Chiller Loss` to `0.53` gal/hr. This is the Grainfather Equipm
 
 So in keeping with checking your work.  Now you can create a recipe in the Grainfather app to verify the Water calculations match.  Create a new recipe, set the `Batch Size` to `5.5` gal. Then add `10` lbs of grain.  I added `Pale 2-Row - US`.
 
-![Grainfather Calibration Recipe](./images/gc_calibration_recipe.png)
+![Grainfather Calibration Recipe](images/gc_calibration_recipe.png)
